@@ -29,7 +29,7 @@ features                                  :
 
   - title                                 : QR code and Barcode scanner
     description                           : Find all the necessary information about products & food.
-    fontawesome_icon_name                 : scanner
+    fontawesome_icon_name                 : scan
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
