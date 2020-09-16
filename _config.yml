@@ -23,16 +23,20 @@ enable_smart_app_banner                   : true                                
 features                                  :
 
   - title                                 : QR Code Reader & Creator
-    description                           : Read and create all type of QR codes.
+    description                           : Read and create your personal QR codes.
     fontawesome_icon_name                 : qrcode
     
   - title                                 : Barcode Scanner
     description                           : Scan the barcode of products and food and find all the detailed information.
     fontawesome_icon_name                 : barcode
 
-  - title                                 : Documents & PDF scanner
-    description                           : Scan and save your personal pdf documents.
+  - title                                 : Documents & PDF Scanner
+    description                           : Scan and save your personal documents.
     fontawesome_icon_name                 : file-pdf
+    
+  - title                                 : Scan history & CSV Export
+    description                           : Access and export all your products history.
+    fontawesome_icon_name                 : history
 
 
 # Theme Settings
