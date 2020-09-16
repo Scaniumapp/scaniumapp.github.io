@@ -27,13 +27,13 @@ email_address                             : scanium@protonmail.com
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : QR Code and Barcode Scanner
-    description                           : Find all the necessary information about products & food.
+  - title                                 : QR Code Reader & Creator
+    description                           : Read and create all type of QR codes.
     fontawesome_icon_name                 : qrcode
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Barcode Scanner
+    description                           : Scan the barcode of products and food and find all the detailed information.
+    fontawesome_icon_name                 : barcode
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
