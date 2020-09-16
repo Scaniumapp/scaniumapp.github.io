@@ -11,7 +11,7 @@ playstore_link                            :                                     
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Scanium                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Pre-Order                                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Scanium is the most simple QR code and barcode reader
 
 
