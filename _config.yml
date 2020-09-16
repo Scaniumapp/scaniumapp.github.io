@@ -19,11 +19,6 @@ enable_smart_app_banner                   : true                                
 
 
 
-# Information About Yourself                                                             
-email_address                             : scanium@protonmail.com
-
-
-
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
