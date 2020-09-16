@@ -27,7 +27,7 @@ email_address                             : scanium@protonmail.com
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : QR code and Barcode scanner
+  - title                                 : QR Code and Barcode Scanner
     description                           : Find all the necessary information about products & food.
     fontawesome_icon_name                 : qrcode
     
