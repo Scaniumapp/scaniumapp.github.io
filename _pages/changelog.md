@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact us
-include_in_header: false
+include_in_header: true
 ---
 
 # Contact us
