@@ -30,10 +30,7 @@ features                                  :
     description                           : Scan the barcode of products and food and find all the detailed information.
     fontawesome_icon_name                 : barcode
 
-  - title                                 : Documents & PDF Scanner
-    description                           : Scan and save your personal documents.
-    fontawesome_icon_name                 : file-pdf
-    
+
   - title                                 : Scan History & CSV Export
     description                           : Fast access and easy export of all scanned products.
     fontawesome_icon_name                 : history
