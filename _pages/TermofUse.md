@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Term of Use
 include_in_header: false
 ---
 
