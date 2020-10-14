@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Term of Use
+title: Terms of Use
 include_in_header: false
 ---
 
 **Last updated**  
 October 14 2020
 
-# Term of Use
+# Terms of Use
 1. Your Acceptance
 
 By using or visiting the Photolock website or any Photolock products, softwares, data feeds, and services provided to you on, from, or through the Photolock website, you signify your agreement to these terms and conditions. If you do not agree to any of these terms please do not use the Service.
